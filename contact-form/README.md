@@ -13,3 +13,5 @@ In any post/page, use the shortcode [my_contact_form] to display the contact for
 
 # What would be displayed to users
 Users see a simple form with name, email, and message fields. After submission, they see a customizable thank you message and receive an email confirmation.
+
+![output.](contact-form/output.png)
